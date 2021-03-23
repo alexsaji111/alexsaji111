@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexsaji111
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning React.js and Node.js
+- 💞️ I’m looking to collaborate on Front-end projects
+- 📫 Reach me on alexsaji111@gmail.com
